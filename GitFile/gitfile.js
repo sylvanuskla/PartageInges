@@ -19,7 +19,7 @@ class GitFile{
                 headers:{
                     'Accept':'application/vnd.github.v3+json',
                     'Content-Type': 'application/json; charset=utf-8',
-                    'Authorization':'Bearer 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',
+                    'Authorization':'Bearer ',
                     'User-Agent': 'nodejs'
                 }
             })
@@ -60,7 +60,7 @@ class GitFile{
                 headers:{
                     'Accept':'application/vnd.github.v3+json',
                     'Content-Type': 'application/json; charset=utf-8',
-                    'Authorization':'Bearer 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',
+                    'Authorization':'Bearer ',
                     'User-Agent': 'nodejs'
                 }
             })
@@ -90,7 +90,7 @@ class GitFile{
                 headers:{
                     'Accept':'application/vnd.github.v3+json',
                     'Content-Type': 'application/json; charset=utf-8',
-                    'Authorization':'Bearer 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',
+                    'Authorization':'Bearer ',
                     'User-Agent': 'nodejs'
                 }
             })
